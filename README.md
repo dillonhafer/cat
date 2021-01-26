@@ -10,5 +10,5 @@ make
 ### Usage
 
 ```
-./cat <file
+cat <file
 ```
